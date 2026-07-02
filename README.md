@@ -83,7 +83,7 @@ flowchart TB
 ### Требования
 
 - Python **3.11+**
-- API-ключ любого **OpenAI-compatible** провайдера (OpenAI, Groq, локальный прокси и т.д.)
+- API-ключ любого **OpenAI-compatible** провайдера (OpenAI, Groq, локальный прокси и т.д)
 
 ### Установка
 
