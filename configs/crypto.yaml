@@ -1,0 +1,22 @@
+topic: "Криптовалюты и DeFi"
+auto_discover: true
+max_articles: 15
+output_dir: output
+
+# deliver_telegram: true
+# deliver_discord: true
+
+writer_style: >
+  Лаконичный аналитический стиль для Telegram-канала:
+  факты, цифры, без кликбейта. Короткие абзацы.
+
+# Или явно задайте источники:
+# sources:
+#   - type: rss
+#     url: https://cointelegraph.com/rss
+#     label: CoinTelegraph
+#     max_items: 8
+#   - type: reddit
+#     url: https://www.reddit.com/r/CryptoCurrency
+#     label: r/CryptoCurrency
+#     max_items: 10
