@@ -88,7 +88,7 @@ flowchart TB
 ### Установка
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AetherMIND.git
+git clone https://github.com/Honored-Karma/AetherMIND.git
 cd AetherMIND
 
 python -m venv .venv
